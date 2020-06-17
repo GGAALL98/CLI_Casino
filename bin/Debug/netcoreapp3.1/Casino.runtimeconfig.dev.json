@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/galben/.dotnet/store/|arch|/|tfm|",
+      "/Users/galben/.nuget/packages"
+    ]
+  }
+}
