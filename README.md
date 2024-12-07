@@ -1,2 +1,2 @@
-# CLI_Casino
-Casino games for console and terminals!
+# CLI Casino
+Casino games for your terminal!
